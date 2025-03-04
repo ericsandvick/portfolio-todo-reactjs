@@ -7,7 +7,7 @@ function Header() {
     const header = (
         <Navbar expand="lg" className="bg-primary" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">ToDo ReactJS</Navbar.Brand>
+          <Navbar.Brand href="#home">ToDo on React</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
